@@ -1,9 +1,7 @@
 
 # RABBIL HASAN
-
-Senior Software Engineer 
-<br><br>
-
+### Senior Software Engineer 
+<br>
 
 <div style="display:flex">
   <a href="https://rabbil.com/"> <img src="assets/WEBSITE.svg" alt="" height="35px" width="auto"></a>
@@ -14,33 +12,32 @@ Senior Software Engineer
 
 ### Love to code
 
-
 <div style="display:flex">
-  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/JavaScript.svg"/>
-  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/React.svg"/>
-  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/Vue.js.svg"/>
-  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/Next.js.svg"/>
-  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/Express.svg"/>
-  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/MongoDB.svg"/>
-  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/PHP.svg"/>
-  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/Laravel.svg"/>
-  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/MySQL.svg"/>
-  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/Dart.svg"/>
-  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/Flutter.svg"/>
-  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/NET.svg"/>
-  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/MicrosoftSQLServer.svg"/>
-  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/PostgresSQL.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/JavaScript.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/React.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Vue.js.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Next.js.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Express.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/MongoDB.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/PHP.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Laravel.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/MySQL.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Dart.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Flutter.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/NET.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/MicrosoftSQLServer.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/PostgresSQL.svg"/>
 </div>
 
 ### Favourite Tools
 
-<div style="display: flex; align-items: center; margin-top: 12px">
-<img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/WebStorm.svg" alt="Envelope Icon"   >
-<img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/PhpStorm.svg" alt="Envelope Icon"   >
-<img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/VisualStudio.svg" alt="Envelope Icon"   >
-<img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/AndroidStudio.svg" alt="Envelope Icon"   >
-<img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/Git.svg" alt="Envelope Icon"   >
-<img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/Azure.svg" alt="Envelope Icon"   >
+<div style="display:flex">
+<img alt="" height="60px" width="60px"  src="assets/tech/WebStorm.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/PhpStorm.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/VisualStudio.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/AndroidStudio.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/Git.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/Azure.svg" />
 </div>
 
 ### About
@@ -70,18 +67,17 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 
 
 
-
 <table>
 <tbody>
 
-<tr style="margin: 0 ;padding: 2px ;border: none">
-<td style="margin: 0 ;padding: 2px ;border: none">
+<tr style="border:none">
+<td style="border:none">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupomsoft&layout=donut&theme=dark) 
 
 </td >
 
-<td style="margin: 0 ;padding: 2px ;border: none" >
+<td style="border:none" >
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rupomsoft&show_icons=true&theme=dark) 
 
@@ -104,17 +100,17 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 
 <table>
 <tbody>
-<tr style="margin: 0 ;padding: 2px ;border: none">
-<td style="margin: 0 ;padding: 2px ;border: none">
-<div style="cursor: pointer" target="_blank" href="https://github.com/rupomsoft/mern-x">
+<tr style="border:none">
+<td style="border:none">
+<div style="cursor:pointer"  href="https://github.com/rupomsoft/mern-x">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=mern-x&theme=dark)
 
 </div>
 </td>
 
-<td style="margin: 0 ;padding: 2px ;border: none">
-<div style="cursor: pointer" target="_blank" href="https://github.com/rupomsoft/express-fileforge">
+<td style="border: none">
+<div style="cursor:pointer" href="https://github.com/rupomsoft/express-fileforge">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=express-fileforge&theme=dark)
 </div>
@@ -124,17 +120,17 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 
 
 
-<tr style="margin: 0 ;padding: 2px ;border: none">
-<td style="margin: 0 ;padding: 2px ;border: none">
-<div style="cursor: pointer" target="_blank" href="https://github.com/rupomsoft/Next-File">
+<tr style="border: none">
+<td style="border: none">
+<div style="cursor: pointer" href="https://github.com/rupomsoft/Next-File">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=Next-File&theme=dark)
 </div>
 
 </td>
 
-<td style="margin: 0 ;padding: 2px ;border: none">
-<div style="cursor: pointer" target="_blank" href="https://github.com/rupomsoft/MERN-STACK-Series">
+<td style="border: none">
+<div style="cursor: pointer" href="https://github.com/rupomsoft/MERN-STACK-Series">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=MERN-STACK-Series&theme=dark)
 </div>
