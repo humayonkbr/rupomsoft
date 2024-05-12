@@ -18,21 +18,20 @@ Senior Software Engineer
 
 
 <div style="display:flex">
-
-  <img alt="" style="background-color:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;" src="assets/tech/JavaScript.svg"  >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/React.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/Vue.js.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/Next.js.svg"   >
-  <img alt=""  style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/Express.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/MongoDB.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/PHP.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/Laravel.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/MySQL.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/Dart.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/Flutter.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/NET.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;" src="assets/tech/MicrosoftSQLServer.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/PostgresSQL.svg"   >
+  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/JavaScript.svg"/>
+  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/React.svg"/>
+  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/Vue.js.svg"/>
+  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/Next.js.svg"/>
+  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/Express.svg"/>
+  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/MongoDB.svg"/>
+  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/PHP.svg"/>
+  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/Laravel.svg"/>
+  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/MySQL.svg"/>
+  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/Dart.svg"/>
+  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/Flutter.svg"/>
+  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/NET.svg"/>
+  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/MicrosoftSQLServer.svg"/>
+  <img alt="" style="margin:4px;width:50px;height:50px"  src="assets/tech/PostgresSQL.svg"/>
 </div>
 
 ### Favourite Tools
