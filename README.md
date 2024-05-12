@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/rabbilhasan/"><img src="assets/FACEBOOK.svg" alt="" height="35px" width="auto"></a>
 </div>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rupomsoft&theme=highcontrast&hide_border=true&border_radius=4.3&card_width=600)](https://git.io/streak-stats)
 ### Love to code
 
 <div style="display:flex">
