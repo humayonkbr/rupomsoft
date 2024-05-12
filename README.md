@@ -67,69 +67,83 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 9. Web security practices
 
 
-<div style="display: flex; align-items: center; margin-top: 12px">
-<div style="margin-right: 12px">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupomsoft&layout=donut)
-
-</div>
 
 
+<table>
+<tbody>
 
-<div style="margin-left: 12px">
+<tr>
+<td>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rupomsoft&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupomsoft&layout=donut) 
 
-</div>
+</td>
 
-</div>
+<td>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rupomsoft&show_icons=true&theme=radical) 
+
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
+
+
+
+
+
 
 ###  Open Source Contribution Going:
 
-<div style="display: flex; align-items: center;">
 
-<div style="margin-right:2px">
+
+<table>
+<tbody>
+<tr>
+<td>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=mern-x)
 
-</div>
+</td>
 
-<div style="margin-right:2px">
+<td>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=express-fileforge)
 
-</div>
-</div>
+</td>
+</tr>
 
 
 
 
-<div style="display: flex">
-<div style="margin-right:2px">
+<tr>
+<td>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=Next-File)
 
-</div>
+</td>
 
-
-<div style="margin-right:2px">
+<td>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=MERN-STACK-Series)
 
-</div>
+</td>
+</tr>
 
-</div>
+</tbody>
 
-
-
-
-<div style="display: flex">
-<div style="margin-right:2px">
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=Node.js-Tutorial-Bangla)
-
-</div>
+</table>
 
 
-</div>
+
+
+
+
+
+
+
+
 
