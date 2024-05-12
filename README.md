@@ -4,13 +4,7 @@ td,th,tr {
    padding: 2px !important;
    border: none!important;
 }
-.card-icon{
-background:#ffffff;
-padding:8px;
-width:50px !important;
-height:50px !important;
-border-radius:4px;
-}
+
 </style>
 
 <div>
@@ -121,6 +115,7 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 <a target="_blank" href="https://github.com/rupomsoft/mern-x">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=mern-x&theme=dark)
+
 </a>
 </td>
 
