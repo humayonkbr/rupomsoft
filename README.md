@@ -149,7 +149,12 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 
 
 .card-icon{
-background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;
+background:#ffffff; 
+margin: 4px; 
+padding:8px; 
+width:50px ; 
+height:50px ; 
+border-radius:4px;
 }
 </style>
 
