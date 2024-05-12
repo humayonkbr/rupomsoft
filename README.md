@@ -1,11 +1,13 @@
 
 
-<div>
-<h1 style="margin-bottom: 2px">RABBIL HASAN</h1>
-Senior Software Engineer <br>
-</div>
 
-<div style="display: flex; align-items: center; margin-top: 18px">
+<h1 style="margin-bottom: 2px">RABBIL HASAN</h1>
+<br>
+Senior Software Engineer 
+<br><br>
+
+
+<div style="display: flex">
   <a target="_blank" href="https://rabbil.com/"> <img src="assets/WEBSITE.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;"></a>
   <a target="_blank" href="https://www.linkedin.com/in/rabbilhasan/"> <img src="assets/LINKEDIN.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;"></a>
   <a target="_blank" href="https://www.linkedin.com/in/rabbilhasan/"><img src="assets/FACEBOOK.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;"></a>
@@ -15,15 +17,7 @@ Senior Software Engineer <br>
 ### Love to code
 
 
-<div style="background-color: #ffffff; margin: 4px; padding: 8px; border-radius: 4px;">
-    <img alt="" src="assets/tech/JavaScript.svg" style="width: 50px; height: 50px;"/>
-</div>
-
-
 <div style="display:flex">
-
-
-
 
   <img alt="" style="background-color:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;" src="assets/tech/JavaScript.svg"  >
   <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/React.svg"   >
