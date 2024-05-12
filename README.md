@@ -70,14 +70,14 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 <table>
 <tbody>
 
-<tr style="border:none">
-<td style="border:none">
+<tr>
+<td>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupomsoft&layout=donut&theme=dark) 
 
-</td >
+</td>
 
-<td style="border:none" >
+<td>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rupomsoft&show_icons=true&theme=dark) 
 
@@ -100,8 +100,8 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 
 <table>
 <tbody>
-<tr style="border:none">
-<td style="border:none">
+<tr>
+<td>
 <div style="cursor:pointer"  href="https://github.com/rupomsoft/mern-x">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=mern-x&theme=dark)
@@ -109,7 +109,7 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 </div>
 </td>
 
-<td style="border: none">
+<td>
 <div style="cursor:pointer" href="https://github.com/rupomsoft/express-fileforge">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=express-fileforge&theme=dark)
@@ -120,8 +120,8 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 
 
 
-<tr style="border: none">
-<td style="border: none">
+<tr>
+<td>
 <div style="cursor: pointer" href="https://github.com/rupomsoft/Next-File">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=Next-File&theme=dark)
@@ -129,7 +129,7 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 
 </td>
 
-<td style="border: none">
+<td>
 <div style="cursor: pointer" href="https://github.com/rupomsoft/MERN-STACK-Series">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=MERN-STACK-Series&theme=dark)
