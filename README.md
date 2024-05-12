@@ -14,7 +14,17 @@ Senior Software Engineer <br>
 
 ### Love to code
 
-<div style="display: flex; align-items: center; margin-top: 12px">
+
+<div style="background-color: #ffffff; margin: 4px; padding: 8px; border-radius: 4px;">
+    <img alt="" src="assets/tech/JavaScript.svg" style="width: 50px; height: 50px;"/>
+</div>
+
+
+<div style="display:flex">
+
+
+
+
   <img alt="" style="background-color:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;" src="assets/tech/JavaScript.svg"  >
   <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/React.svg"   >
   <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/Vue.js.svg"   >
