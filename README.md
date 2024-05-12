@@ -1,11 +1,4 @@
-<style>
-td,th,tr {
-   margin: 0 !important;
-   padding: 2px !important;
-   border: none!important;
-}
 
-</style>
 
 <div>
 <h1 style="margin-bottom: 2px">RABBIL HASAN</h1>
@@ -22,31 +15,31 @@ Senior Software Engineer <br>
 ### Love to code
 
 <div style="display: flex; align-items: center; margin-top: 12px">
-  <img class="card-icon" src="assets/tech/JavaScript.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-  <img class="card-icon"  src="assets/tech/React.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-  <img class="card-icon" src="assets/tech/Vue.js.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-  <img class="card-icon" src="assets/tech/Next.js.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-  <img class="card-icon" src="assets/tech/Express.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-  <img class="card-icon" src="assets/tech/MongoDB.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-  <img class="card-icon" src="assets/tech/PHP.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-  <img class="card-icon" src="assets/tech/Laravel.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-  <img class="card-icon" src="assets/tech/MySQL.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-  <img class="card-icon"  src="assets/tech/Dart.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-  <img class="card-icon" src="assets/tech/Flutter.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-  <img class="card-icon" src="assets/tech/NET.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-  <img class="card-icon" src="assets/tech/MicrosoftSQLServer.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-  <img class="card-icon" src="assets/tech/PostgresSQL.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+  <img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;" src="assets/tech/JavaScript.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+  <img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon"  src="assets/tech/React.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+  <img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/Vue.js.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+  <img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/Next.js.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+  <img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/Express.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+  <img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/MongoDB.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+  <img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/PHP.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+  <img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/Laravel.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+  <img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/MySQL.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+  <img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon"  src="assets/tech/Dart.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+  <img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/Flutter.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+  <img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/NET.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+  <img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/MicrosoftSQLServer.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+  <img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/PostgresSQL.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
 </div>
 
 ### Favourite Tools
 
 <div style="display: flex; align-items: center; margin-top: 12px">
-<img class="card-icon" src="assets/tech/WebStorm.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-<img class="card-icon" src="assets/tech/PhpStorm.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-<img class="card-icon" src="assets/tech/VisualStudio.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-<img class="card-icon" src="assets/tech/AndroidStudio.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-<img class="card-icon" src="assets/tech/Git.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
-<img class="card-icon" src="assets/tech/Azure.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+<img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/WebStorm.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+<img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/PhpStorm.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+<img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/VisualStudio.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+<img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/AndroidStudio.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+<img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/Git.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
+<img style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/Azure.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;">
 </div>
 
 ### About
@@ -80,14 +73,14 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 <table>
 <tbody>
 
-<tr>
-<td>
+<tr style="margin: 0 ;padding: 2px ;border: none">
+<td style="margin: 0 ;padding: 2px ;border: none">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupomsoft&layout=donut&theme=dark) 
 
-</td>
+</td >
 
-<td>
+<td style="margin: 0 ;padding: 2px ;border: none" >
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rupomsoft&show_icons=true&theme=dark) 
 
@@ -110,8 +103,8 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 
 <table>
 <tbody>
-<tr>
-<td>
+<tr style="margin: 0 ;padding: 2px ;border: none">
+<td style="margin: 0 ;padding: 2px ;border: none">
 <a target="_blank" href="https://github.com/rupomsoft/mern-x">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=mern-x&theme=dark)
@@ -119,7 +112,7 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 </a>
 </td>
 
-<td>
+<td style="margin: 0 ;padding: 2px ;border: none">
 <a target="_blank" href="https://github.com/rupomsoft/express-fileforge">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=express-fileforge&theme=dark)
@@ -130,8 +123,8 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 
 
 
-<tr>
-<td>
+<tr style="margin: 0 ;padding: 2px ;border: none">
+<td style="margin: 0 ;padding: 2px ;border: none">
 <a target="_blank" href="https://github.com/rupomsoft/Next-File">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=Next-File&theme=dark)
@@ -139,7 +132,7 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 
 </td>
 
-<td>
+<td style="margin: 0 ;padding: 2px ;border: none">
 <a target="_blank" href="https://github.com/rupomsoft/MERN-STACK-Series">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=MERN-STACK-Series&theme=dark)
