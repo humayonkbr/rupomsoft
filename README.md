@@ -1,16 +1,14 @@
 
+# RABBIL HASAN
 
-
-<h1 style="margin-bottom: 2px">RABBIL HASAN</h1>
-<br>
 Senior Software Engineer 
 <br><br>
 
 
-<div style="display: flex">
-  <a target="_blank" href="https://rabbil.com/"> <img src="assets/WEBSITE.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/rabbilhasan/"> <img src="assets/LINKEDIN.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/rabbilhasan/"><img src="assets/FACEBOOK.svg" alt="Envelope Icon" style="height: 30px; width: auto; margin-right: 6px;"></a>
+<div style="display:flex">
+  <a href="https://rabbil.com/"> <img src="assets/WEBSITE.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://www.linkedin.com/in/rabbilhasan/"> <img src="assets/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://www.linkedin.com/in/rabbilhasan/"><img src="assets/FACEBOOK.svg" alt="" height="35px" width="auto"></a>
 </div>
 
 
