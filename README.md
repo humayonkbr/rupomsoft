@@ -1,22 +1,4 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
 
-      <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
 
 <div>
 <h1 style="margin-bottom: 2px">RABBIL HASAN</h1>
@@ -34,19 +16,19 @@ Senior Software Engineer <br>
 
 <div style="display: flex; align-items: center; margin-top: 12px">
   <img alt="" style="background-color:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;" src="assets/tech/JavaScript.svg"  >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon"  src="assets/tech/React.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/Vue.js.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/Next.js.svg"   >
-  <img alt=""  style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/Express.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/MongoDB.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/PHP.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/Laravel.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/MySQL.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon"  src="assets/tech/Dart.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/Flutter.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/NET.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/MicrosoftSQLServer.svg"   >
-  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/PostgresSQL.svg"   >
+  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/React.svg"   >
+  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/Vue.js.svg"   >
+  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/Next.js.svg"   >
+  <img alt=""  style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/Express.svg"   >
+  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/MongoDB.svg"   >
+  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/PHP.svg"   >
+  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/Laravel.svg"   >
+  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/MySQL.svg"   >
+  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/Dart.svg"   >
+  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  src="assets/tech/Flutter.svg"   >
+  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/NET.svg"   >
+  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;" src="assets/tech/MicrosoftSQLServer.svg"   >
+  <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"   src="assets/tech/PostgresSQL.svg"   >
 </div>
 
 ### Favourite Tools
