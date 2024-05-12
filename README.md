@@ -15,7 +15,7 @@ Senior Software Engineer <br>
 ### Love to code
 
 <div style="display: flex; align-items: center; margin-top: 12px">
-  <img alt="" class="card-icon" src="assets/tech/JavaScript.svg"  >
+  <img alt="" style="background-color:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;" src="assets/tech/JavaScript.svg"  >
   <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon"  src="assets/tech/React.svg"   >
   <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/Vue.js.svg"   >
   <img alt="" style="background:#ffffff; margin: 4px; padding:8px; width:50px ; height:50px ; border-radius:4px;"  class="card-icon" src="assets/tech/Next.js.svg"   >
@@ -145,18 +145,7 @@ I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers c
 </table>
 
 
-<style>
 
-
-.card-icon{
-background:#ffffff; 
-margin: 4px; 
-padding:8px; 
-width:50px ; 
-height:50px ; 
-border-radius:4px;
-}
-</style>
 
 
 
